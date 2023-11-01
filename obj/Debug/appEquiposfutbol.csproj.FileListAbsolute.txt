@@ -1,0 +1,14 @@
+D:\prueba\appEquiposfutbol\bin\Debug\appEquiposfutbol.exe.config
+D:\prueba\appEquiposfutbol\bin\Debug\appEquiposfutbol.exe
+D:\prueba\appEquiposfutbol\bin\Debug\appEquiposfutbol.pdb
+D:\prueba\appEquiposfutbol\obj\Debug\appEquiposfutbol.csproj.AssemblyReference.cache
+D:\prueba\appEquiposfutbol\obj\Debug\appEquiposfutbol.Properties.Resources.resources
+D:\prueba\appEquiposfutbol\obj\Debug\appEquiposfutbol.csproj.GenerateResource.cache
+D:\prueba\appEquiposfutbol\obj\Debug\appEquiposfutbol.csproj.CoreCompileInputs.cache
+D:\prueba\appEquiposfutbol\obj\Debug\appEquiposfutbol.exe
+D:\prueba\appEquiposfutbol\obj\Debug\appEquiposfutbol.pdb
+D:\prueba\appEquiposfutbol\obj\Debug\appEquiposfutbol.formPrincipal.resources
+D:\prueba\appEquiposfutbol\obj\Debug\appEquiposfutbol.FormEquipos.resources
+D:\prueba\appEquiposfutbol\obj\Debug\appEquiposfutbol.FormFutbolistas.resources
+D:\prueba\appEquiposfutbol\obj\Debug\appEquiposfutbol.FormListadoEquipos.resources
+D:\prueba\appEquiposfutbol\obj\Debug\appEquiposfutbol.FormListadoFutbolistas.resources
